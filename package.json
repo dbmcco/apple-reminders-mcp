@@ -18,12 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/braydonfullerapps/apple-reminders-mcp.git"
+    "url": "https://github.com/dbmcco/apple-reminders-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/braydonfullerapps/apple-reminders-mcp/issues"
+    "url": "https://github.com/dbmcco/apple-reminders-mcp/issues"
   },
-  "homepage": "https://github.com/braydonfullerapps/apple-reminders-mcp#readme",
+  "homepage": "https://github.com/dbmcco/apple-reminders-mcp#readme",
   "engines": {
     "node": ">=16.0.0"
   },

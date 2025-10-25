@@ -23,7 +23,7 @@ A Model Context Protocol (MCP) server that provides seamless integration between
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/apple-reminders-mcp.git
+git clone https://github.com/dbmcco/apple-reminders-mcp.git
 cd apple-reminders-mcp
 ```
 
